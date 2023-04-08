@@ -1,5 +1,4 @@
-import re
-import os
+import re, os
 
 piilist = []
 with open("find.txt", "r") as piidoc:
@@ -15,7 +14,6 @@ for dirpath, dirnames, filenames in os.walk("/syblack/Documents/file_path_pii/te
 for stringpattern in piilist:
     regex = re.compile(stringpattern)
     for f in filepathlist:
-        # how to not print empty matches??
         result = re.findall(regex, f)
         if not result == []:
             print(f,",".join(result))
