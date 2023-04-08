@@ -17,7 +17,8 @@ for stringpattern in piilist:
     for f in filepathlist:
         # how to not print empty matches??
         result = re.findall(regex, f)
-        print(f,",".join(result))
+        if not result == []:
+            print(f,",".join(result))
 
 
 # results = []
