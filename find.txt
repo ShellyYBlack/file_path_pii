@@ -1,6 +1,8 @@
-tiger
-leopard
-cheetah
-ocelot
-bobcat
-panther
+tigers?
+leopard | panther
+[cC]heetah
+ocelots?
+bobcat*
+kitten
+[cC]ougar
+wildcats?
