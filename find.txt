@@ -1,8 +1,0 @@
-tigers?
-leopard | panther
-[cC]heetah
-ocelots?
-bobcat*
-kitten
-[cC]ougar
-wildcats?

@@ -1,7 +1,9 @@
+# Not working on empty dir
+
 import re, os
 
 piilist = []
-with open("find.txt", "r") as piidoc:
+with open("rlist.txt", "r") as piidoc:
     piilist = (piidoc.read().splitlines())
 #print(piilist)
 
