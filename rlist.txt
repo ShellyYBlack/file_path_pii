@@ -9,7 +9,8 @@
 (?i)SAT
 (?i)W-?2
 (?i)(academic)? transcripts?
-(?i)(Add-Drop)
+(?i)(add-drop)
+(?i)(drop-add)
 [aA]nnual [aA]ppraisals?
 [aA]nnual [pP]erformance [aA]ppraisals?
 [cC]areer.[bB]anded [wW]ork\s*(?:[pP]lans?)
