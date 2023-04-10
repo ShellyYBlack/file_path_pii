@@ -1,39 +1,39 @@
-\bACT\b
-\bG\.?P\.?A\.?\b
-\bGRE\b
-\bI-?9\b
-\bLSAT\b
-\bMCAT\b
-\bNC-?4\b
-\bPAF\b
-\bSAT\b
-\bW-?2\b
-[aA]cademic [tT]ranscripts?
-([aA][dD][dD]/[dD][rR][oO][pP]|[dD][rR][oO][pP]/[aA][dD][dD])
+(?i)ACT
+(?i)G\.?P\.?A\.?
+(?i)GRE
+(?i)I-?9
+(?i)LSAT
+(?i)MCAT
+(?i)NC-?4
+(?i)PAF
+(?i)SAT
+(?i)W-?2
+(?i)(academic)? transcripts?
+(?i)(Add-Drop)
 [aA]nnual [aA]ppraisals?
 [aA]nnual [pP]erformance [aA]ppraisals?
-[cC]areer.[bB]anded [wW]ork\s*([pP]lans?)
+[cC]areer.[bB]anded [wW]ork\s*(?:[pP]lans?)
 [cC]ase\s*[fF]iles?
 [cC]ase [rR]ecords?
-[cC]onfidential(ity)?
+[cC]onfidential(?:ity)?
 [dD]onors?
 [dD]river'?s'? [lL]icenses?
 [eE]xam(s|inations?|)
-[gG]rad(es?|ing)
+[gG]rad(?:es?|ing)
 [gG]rievances?
-[Hh]iring [Cc]omms?(ittees?|)
-[iI]mmuniz(e|ing|ations?)
+[Hh]iring [Cc]omms?(?:ittees?|)
+[iI]mmuniz(?:e|ing|ations?)
 [mM]edical [rR]ecords?
 [mM]onthly [bB]reakdown [rR]eport
-[nN]omination [Cc]omms?(ittees?|)
+[nN]omination [Cc]omms?(?:ittees?|)
 [pP]atient [rR]ecords?
 [pP]ayroll
 [pP]ersonnel [aA]ction [fF]orm
 [pP]ersonnel [fF]iles?
 [rR]ecommendations?
-\b[Ss]earch [Cc]omms?(ittees?|)\b
-\b[tT]erminations?\b
+[Ss]earch [Cc]omms?(?:ittees?|)
+[tT]erminations?
 [tT]ime\s*sheet
-[wW]ithdr[ae]ws?(n|als?|ing)?
+[wW]ithdr[ae]ws?(?:n|als?|ing)?
 [wW]ork\s*[pP]lan
-[wW]orker'?s'? [cC]omp(ensation)?
+[wW]orker'?s'? [cC]omp(?:ensation)?

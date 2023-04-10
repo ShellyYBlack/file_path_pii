@@ -1,10 +1,15 @@
-/syblack/Documents/file_path_pii/testfiles/testdir/GPA edit I9.mov,GPA
+/syblack/Documents/file_path_pii/testfiles/testdir/gpa GPA edit i9.mov,"gpa,GPA"
 /syblack/Documents/file_path_pii/testfiles/confidential recommendation.txt,recommendation
 /syblack/Documents/file_path_pii/testfiles/grievance/notes.txt,grievance
+/syblack/Documents/file_path_pii/testfiles/grievance/confidentiality.xls,grievance
 /syblack/Documents/file_path_pii/testfiles/drivers license.jpeg,drivers license
-/syblack/Documents/file_path_pii/testfiles/confidential recommendation.txt,
+/syblack/Documents/file_path_pii/testfiles/grievance/confidentiality.xls,confidentiality
+/syblack/Documents/file_path_pii/testfiles/confidential recommendation.txt,confidential
+/syblack/Documents/file_path_pii/testfiles/ADD-DROP.txt,ADD-DROP
 /syblack/Documents/file_path_pii/testfiles/testdir/W2.doc,W2
 /syblack/Documents/file_path_pii/testfiles/W-2.mp4,W-2
-/syblack/Documents/file_path_pii/testfiles/PAF.txt,PAF
+/syblack/Documents/file_path_pii/testfiles/2022-w2.txt,w2
+/syblack/Documents/file_path_pii/testfiles/lsat2019.pdf,sat
 /syblack/Documents/file_path_pii/testfiles/NC-4.txt,NC-4
-/syblack/Documents/file_path_pii/testfiles/testdir/GPA edit I9.mov,I9
+/syblack/Documents/file_path_pii/testfiles/lsat2019.pdf,lsat
+/syblack/Documents/file_path_pii/testfiles/testdir/gpa GPA edit i9.mov,i9
