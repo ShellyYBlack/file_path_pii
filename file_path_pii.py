@@ -1,5 +1,3 @@
-# Doesn't include empty dir
-
 import re, os, csv
 
 piilist = []
