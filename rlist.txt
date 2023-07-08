@@ -22,11 +22,10 @@
 [eE]xam(s|inations?|)
 [gG]rad(?:es?|ing)
 [gG]rievances?
-[Hh]iring [Cc]omms?(?:ittees?|)
+(?i)(hiring)?(nomination)? ?comms?(?:ittees?|)
 [iI]mmuniz(?:e|ing|ations?)
 [mM]edical [rR]ecords?
 [mM]onthly [bB]reakdown [rR]eport
-[nN]omination [Cc]omms?(?:ittees?|)
 [pP]atient [rR]ecords?
 [pP]ayroll
 [pP]ersonnel [aA]ction [fF]orm
