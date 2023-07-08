@@ -9,11 +9,10 @@
 /syblack/Documents/file_path_pii/testfiles/drop-ADD.txt,drop-ADD
 /syblack/Documents/file_path_pii/testfiles/confidential recommendation.txt,confidential
 /syblack/Documents/file_path_pii/testfiles/grievance/confidentiality.xls,confidentiality
-/syblack/Documents/file_path_pii/testfiles/drivers license.jpeg,drivers license
+/syblack/Documents/file_path_pii/testfiles/drivers-license.jpeg,drivers-license
 /syblack/Documents/file_path_pii/testfiles/grievance/confidentiality.xls,grievance
 /syblack/Documents/file_path_pii/testfiles/testdir/grievance 2023 CATS.txt,grievance
-/syblack/Documents/file_path_pii/testfiles/confidential recommendation.txt,comm
 /syblack/Documents/file_path_pii/testfiles/hiringcommittee.txt,hiringcommittee
-/syblack/Documents/file_path_pii/testfiles/testdir/nomination comm.pdf,nomination comm
+/syblack/Documents/file_path_pii/testfiles/testdir/patient_record.xls,patient_record
 /syblack/Documents/file_path_pii/testfiles/confidential recommendation.txt,recommendation
 /syblack/Documents/file_path_pii/testfiles/testdir/workers comp.txt,workers comp
